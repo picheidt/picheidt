@@ -17,7 +17,13 @@
 
 <h2>Estou aprendendo</h2>
 
-<div style="display: flex; flex-wrap: wrap;"><br/>
-  <img align="left" alt="GCP" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
-  <img align="left" alt="Airflow" src="https://img.shields.io/static/v1?style=for-the-badge&message=Apache+Airflow&color=017CEE&logo=Apache+Airflow&logoColor=FFFFFF&label="/>
-</div>
+
+<img align="left" alt="GCP" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
+<img align="left" alt="Airflow" src="https://img.shields.io/static/v1?style=for-the-badge&message=Apache+Airflow&color=017CEE&logo=Apache+Airflow&logoColor=FFFFFF&label="/>
+
+<br>
+<br>
+
+<h2>Você pode me encontrar aqui</h2>
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](viniciuspicheidt@gmail.com)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-picheidt-0a516b234/?locale=en_US)
