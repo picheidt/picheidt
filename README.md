@@ -19,7 +19,7 @@
 
 <h2>Estou aprendendo</h2>
 
-<div style="display: inline_bloc"><br/>
+<div style="display: flex; flex-wrap: wrap;"><br/>
   <img align="left" alt="GCP" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
   <img align="left" alt="Airflow" src="https://img.shields.io/static/v1?style=for-the-badge&message=Apache+Airflow&color=017CEE&logo=Apache+Airflow&logoColor=FFFFFF&label="/>
 </div>
